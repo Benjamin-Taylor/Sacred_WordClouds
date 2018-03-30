@@ -1,0 +1,1 @@
+In this notebook, I have taken the text from the King James Bible, The Gospel of Buddha, The Quran and The Book of Mormon (as transcribed by Project Gutenberg https://www.gutenberg.org/) and visualised them as word cloud images.
